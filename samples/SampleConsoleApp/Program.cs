@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ToolsNullRefRepro
+namespace SampleConsoleApp
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("hello world!");
         }
     }
 }
